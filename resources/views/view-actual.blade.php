@@ -44,7 +44,7 @@
                                     <div class="form-floating mb-3">
                                         <input class="form-control" name="kecamatan" id="modalKecamatan" type="text"
                                                placeholder="Kecamatan" required/>
-                                        <label for="modalKecamatan">Kecamatan</label>
+                                        <label for="modalKecamatan">Jawa Barat</label>
                                     </div>
 
                                     <div class="form-floating mb-3">
